@@ -310,3 +310,11 @@ header {
     background-image: url(../img/arqueiro-mago.png);
     background-repeat: no-repeat;
 }
+
+.rodape {
+    text-align: center;
+    margin: 2em;
+    font-family: var(--fonte-titulo-cartas);
+    font-size: 1.75em;
+}
+
